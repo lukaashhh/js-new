@@ -1,1 +1,1 @@
-console.log(1);
+let red = "ddddd";
